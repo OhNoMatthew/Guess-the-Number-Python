@@ -1,7 +1,13 @@
-This is a simple python program that is a simple guess the number game.
+# Guess the Number Game - Python
+### (Created 7/25/2025)
+---
+## Description
+This is a simple Guess the Number Game I made.
+- Pygame (Future)
+- Tkinter (Future)
 
-CREATED (7/25/2025)
+## Instructions
+1. Open the file
 
-** Patch Notes ** (8/12/2025)
-
-N/A
+## PATCH NOTES (9/3/2025)
+- N/A
